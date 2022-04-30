@@ -1,0 +1,8 @@
+sebelum menggunakan pastikan sudah mengimport database 'zakatfitrah.sql'
+dan sesuaikan username dan password mysql didalam aplikasi, disetiap kodingan
+
+username : admin
+password : admin
+
+bila lupa bisa mengklik 'lupa password' di dalam aplikasi
+
